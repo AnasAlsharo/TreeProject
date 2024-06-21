@@ -1,0 +1,20 @@
+
+This directory is 'temporary' storage. NOT SAFE!
+Please make backups of your files!
+
+Temporary space has fast performance but
+NO BACKUP and might auto expire (AUTO_DELETE)!
+
+FILES COULD BE DELETED WITHOUT ANY NOTICE!
+    - after ~20 days since creation
+    - during maintenance
+    - hardware failure
+    - free up space
+    - NO REASON!!
+
+IF YOU UNDERSTAND THE RISK AND WISH TO PREVENT AUTO_DELETE!
+Any directory prefixed with '.' or '_' are by default ignored by the auto_delete process.
+HOWEVER if storage becomes full or files are old these directories will be considered for auto_delete.
+
+Happy computing!
+

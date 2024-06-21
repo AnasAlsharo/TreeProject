@@ -1,0 +1,51 @@
+PS1('PEXPECT_PROMPT>'); PS2('PEXPECT_PROMPT_')
+version
+graphics_toolkit
+more off; source ~/.octaverc; cd("/mnt/storage/home/aaalshar");PS1('PEXPECT_PROMPT>'); PS2('PEXPECT_PROMPT_')
+addpath("/srv/jupyter_venv/lib/python3.10/site-packages/octave_kernel")
+graphics_toolkit('gnuplot')
+set(0, 'defaultfigurevisible', 'off');
+var1=10;
+var2=2;
+vec1=[1;2;3];
+m1=[1 2 3; 4 5 6];
+m2=[1 1 1; 2 2 2]
+_make_figures("/tmp/tmpv91a9jk5", "png", "Figure", -1, -1, 0, 0)
+var1=10
+var2=2
+vec1=[1;2;3]
+m1=[1 2 3; 4 5 6]
+m2=[1 1 1; 2 2 2]
+_make_figures("/tmp/tmpizx03nta", "png", "Figure", -1, -1, 0, 0)
+var1=10
+var2=2
+vec1=[1;2;3]
+m1=[1 2 3; 4 5 6]
+m2=[1 1 1; 2 2 2]
+clc
+_make_figures("/tmp/tmpjr1x_apc", "png", "Figure", -1, -1, 0, 0)
+var1=10
+var2=2
+vec1=[1;2;3]
+m1=[1 2 3; 4 5 6]
+m2=[1 1 1; 2 2 2]
+m1+m2
+m1*m2
+_make_figures("/tmp/tmpoga94mbf", "png", "Figure", -1, -1, 0, 0)
+var1=10
+var2=2
+vec1=[1;2;3]
+m1=[1 2 3; 4 5 6]
+m2=[1 1 1; 2 2 2;3 3 3];
+m1+m2
+m1*m2
+_make_figures("/tmp/tmpaq12ija7", "png", "Figure", -1, -1, 0, 0)
+var1=10
+var2=2
+vec1=[1;2;3]
+m1=[1 2 3; 4 5 6;7 8 9]
+m2=[1 1 1; 2 2 2;3 3 3];
+m1+m2
+m1*m2
+_make_figures("/tmp/tmp2_5tv65r", "png", "Figure", -1, -1, 0, 0)
+# Octave 6.4.0, Sun Aug 13 17:24:30 2023 EDT <aaalshar@jupyter-p03.math.uwaterloo.ca>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MF0 version="1.1" packageUris="http://schema.mathworks.com/mf0/mvm_cache_model/R2020a">
+  <mvm.services.MVMCache type="mvm.services.MVMCache" uuid="aee74427-3e23-41ae-83cd-eeca4953ee37">
+    <clientCapabilities>RuntimeUserInput</clientCapabilities>
+    <clientCapabilities>Swing</clientCapabilities>
+    <clientCapabilities>ComplexSwing</clientCapabilities>
+    <clientCapabilities>LocalClient</clientCapabilities>
+    <clientCapabilities>WebWindow</clientCapabilities>
+    <clientCapabilities>ModalDialogs</clientCapabilities>
+    <clientCapabilities>Debugging</clientCapabilities>
+    <currentWorkingDirectory>/mnt/storage/home/aaalshar/TreeQSM/src</currentWorkingDirectory>
+    <cwdFileinfo type="mvm.services.FileInfo">
+      <isDirectory>true</isDirectory>
+      <location>/mnt/storage/home/aaalshar/TreeQSM</location>
+      <modifiedUTC>2024-Feb-22 23:33:59</modifiedUTC>
+      <name>src</name>
+      <separator>/</separator>
+      <writable>true</writable>
+    </cwdFileinfo>
+    <mvmCapabilities>RuntimeUserInput</mvmCapabilities>
+    <mvmCapabilities>Swing</mvmCapabilities>
+    <mvmCapabilities>ComplexSwing</mvmCapabilities>
+    <mvmCapabilities>LocalClient</mvmCapabilities>
+    <mvmCapabilities>WebWindow</mvmCapabilities>
+    <mvmCapabilities>ModalDialogs</mvmCapabilities>
+    <mvmCapabilities>Debugging</mvmCapabilities>
+    <workspaceVarNames>ans</workspaceVarNames>
+    <workspaceVarNames>exc</workspaceVarNames>
+    <workspaceVarNames>oldPath</workspaceVarNames>
+    <workspaceVarNames>osPathsep</workspaceVarNames>
+  </mvm.services.MVMCache>
+</MF0>

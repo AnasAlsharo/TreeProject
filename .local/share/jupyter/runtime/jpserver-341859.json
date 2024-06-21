@@ -1,0 +1,13 @@
+{
+  "base_url": "/user/aaalshar/",
+  "hostname": "127.0.0.1",
+  "password": false,
+  "pid": 341859,
+  "port": 57189,
+  "root_dir": "/mnt/storage/home/aaalshar",
+  "secure": false,
+  "sock": "",
+  "token": "",
+  "url": "http://127.0.0.1:57189/user/aaalshar/",
+  "version": "1.18.1"
+}
